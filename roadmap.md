@@ -1,0 +1,13 @@
+# Collabio roadmap
+- [x] Adjust the seven testimonial portraits to five men and two women
+- [x] Replace repeated photography with unique images across all website placements
+- [x] Replace testimonial badge wording and add clearly illustrative professional portraits
+- [x] Homepage client feedback and Life at Collabio sample carousels
+- [ ] Testimonial administration: add, edit, approve, publish, unpublish — requires Cloud from main project chat
+- [x] Updated brief: premium photographic homepage and navigation
+- [ ] Updated brief: extend approved visual direction across remaining pages — awaiting homepage review
+- [x] Brand system, public website (Home, About, Services + details, How It Works, For Businesses, FAQ, Contact, Legal)
+- [x] Careers portal: careers landing, job board with filters, job details, application form, join network (front-end validation + reference numbers)
+- [ ] Lovable Cloud backend: store inquiries, applications, profiles, resume uploads — must be enabled from main project chat
+- [ ] Admin dashboard (login, jobs CRUD, applications, inquiries, users) — needs backend
+- [ ] Real contact details, social links, legal copy — awaiting user
